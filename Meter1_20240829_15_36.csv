@@ -1,0 +1,3 @@
+Timestamp,Phase A Voltage V,Phase A current A,Phase A Active Power W,Phase A Power Factor,Phase A Energy Consumed Kw.h,Phase B Voltage V,Phase B current A,Phase B Active Power W,Phase B Power Factor,Phase B Energy Consumed Kw.h,Phase C Voltage V,Phase C current A,Phase C Active Power W,Phase C Power Factor,Phase C Energy Consumed Kw.h,Total Energy Consumed Kw.h,Total Current A,Total Active Power,Frequency,id1,id2,id3
+2024-08-29 15:36:16.747826,243.0,6.662,1047.0,0.65,180.1,242.6,6.891,1067.0,0.64,223.65,243.2,6.717,1028.0,0.63,290.68,69445.0,20.27,3141.0,50.0,397.0,0.0,1.0
+2024-08-29 15:36:18.173468,243.0,6.662,1047.0,0.65,180.1,242.6,6.891,1067.0,0.64,223.65,243.2,6.717,1028.0,0.63,290.68,69445.0,20.27,3141.0,50.0,390.0,0.0,1.0
