@@ -12,6 +12,7 @@ import logging                                      # added for logging to track
 import os                                           # added for checking if the directory exists
 import atexit                                       # added to handle program exit events
 
+tinytuya.set_debug(True)
 
 # Configure logging
 logging.basicConfig(
@@ -22,10 +23,11 @@ logging.basicConfig(
 
 
 # Initial device configuration
-device_id = 'bfc6abb358246784e5jq1w'
-local_key = 'So;Y3sf#M+xsVV+='
-device_version = 3.3
+device_id = 'bf6af1e102ace8839abt9a'
+local_key = '_>X7-kea-|~*U}wV'
+device_version = 3.4
 
+# So;Y3sf#M+xsVV+=
 
 '''
 # Provided data
@@ -65,7 +67,7 @@ custom_columns = ['Timestamp',
 df_global = pd.DataFrame(columns=custom_columns)            # global DataFrame to accumulate data
 
 # Define the file path
-file_location = 'C:/Users/Faidra/P2RE'
+file_location = 'C:/Users/Faidra/P2RE/'
 
 if not os.path.exists(file_location):                       # check and create directory if not exists
     os.makedirs(file_location)                              # ensure the directory for data logging exists
@@ -107,7 +109,7 @@ def extract_data(data):
     df = df.set_index('ID').T
     df.insert(0, 'timestamp', datetime.now())    
 
-    print(data) 
+    # print(data)                                                                           # debugging filling up buffer RAM with print statement - disabled for now 
 
     try:                                                                                    # made this shorter and more readable
         # convert all values to numeric and divide to their respective places

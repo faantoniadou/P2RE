@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fantoniadou\\.nuget\\packages\\": {}
+    "C:\\Users\\Faidra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fantoniadou\\OneDrive - Reaction Engines\\Placement 2\\Repo\\FanucFocasProject\\FanucFocasProject\\FanucFocasProject.csproj",
+      "projectUniqueName": "C:\\Users\\Faidra\\P2RE\\FanucFocasProject\\FanucFocasProject\\FanucFocasProject.csproj",
       "projectName": "FanucFocasProject",
-      "projectPath": "C:\\Users\\fantoniadou\\OneDrive - Reaction Engines\\Placement 2\\Repo\\FanucFocasProject\\FanucFocasProject\\FanucFocasProject.csproj",
-      "packagesPath": "C:\\Users\\fantoniadou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fantoniadou\\OneDrive - Reaction Engines\\Placement 2\\Repo\\FanucFocasProject\\FanucFocasProject\\obj\\",
+      "projectPath": "C:\\Users\\Faidra\\P2RE\\FanucFocasProject\\FanucFocasProject\\FanucFocasProject.csproj",
+      "packagesPath": "C:\\Users\\Faidra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Faidra\\P2RE\\FanucFocasProject\\FanucFocasProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fantoniadou\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Faidra\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

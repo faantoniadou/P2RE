@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FanucFocasProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98fc6a17643800bcdfd25bd6e262aae71f5d0a4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FanucFocasProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FanucFocasProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
